@@ -1,0 +1,15 @@
+Define Version Control
+This are the changes made to system softwares, files, websites and applications to enhance user experience which are traceable.
+
+What do you understand by Git?
+Git is a version control system designed to track changes which is being made on a system file. It allows for owners of files to share progress on a project with other participants on the same project where each individual can have access to make changes which can be reversible. Git enables collaboration and it also creates avenue to share ideas on same project.Git also serves as a storage space for files
+
+Describe the process of committing a project to github repository.
+step 1: Create a folder to contain the project.
+Step 2: Go to git website and create a new repository using the same project name
+Step 3: Go to your terminal on your visual studio code and run the command "git init" this action will create a local git repository on your device
+Step 4: Run the command "git add ." to add all the files you have created in the folder to the local git repository
+Step 5: Run the command "git commit -m "message" " to save all the added files in the local git repository
+Step 6: Run the command "git branch -M "main" " to create a branch main in your git repository
+Step 7: Run the command "git remote add origin "https://github.com/username/repositoryname.git" this will link your local repository to your global repository on github website.
+Step 8: Run the command "git push origin main" this will save all the files in your local repository into your global repository

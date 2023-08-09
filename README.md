@@ -1,0 +1,1 @@
+I am excited about the prospect of becoming a frontend web developer. This journey is not without hurdles but i'm sure this project is achievable. Step by step i'll get there!
